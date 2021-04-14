@@ -23,3 +23,4 @@ classMap.values.forEach(student=>{
     console.log(student.firstName);
 })
 
+console.log('end of home work');
